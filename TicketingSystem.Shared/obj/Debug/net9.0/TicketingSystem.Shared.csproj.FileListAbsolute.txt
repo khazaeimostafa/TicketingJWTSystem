@@ -1,0 +1,12 @@
+E:\Mostafa\Ticket\TicketingSystem.Shared\bin\Debug\net9.0\TicketingSystem.Shared.deps.json
+E:\Mostafa\Ticket\TicketingSystem.Shared\bin\Debug\net9.0\TicketingSystem.Shared.dll
+E:\Mostafa\Ticket\TicketingSystem.Shared\bin\Debug\net9.0\TicketingSystem.Shared.pdb
+E:\Mostafa\Ticket\TicketingSystem.Shared\obj\Debug\net9.0\TicketingSystem.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mostafa\Ticket\TicketingSystem.Shared\obj\Debug\net9.0\TicketingSystem.Shared.AssemblyInfoInputs.cache
+E:\Mostafa\Ticket\TicketingSystem.Shared\obj\Debug\net9.0\TicketingSystem.Shared.AssemblyInfo.cs
+E:\Mostafa\Ticket\TicketingSystem.Shared\obj\Debug\net9.0\TicketingSystem.Shared.csproj.CoreCompileInputs.cache
+E:\Mostafa\Ticket\TicketingSystem.Shared\obj\Debug\net9.0\TicketingSystem.Shared.dll
+E:\Mostafa\Ticket\TicketingSystem.Shared\obj\Debug\net9.0\refint\TicketingSystem.Shared.dll
+E:\Mostafa\Ticket\TicketingSystem.Shared\obj\Debug\net9.0\TicketingSystem.Shared.pdb
+E:\Mostafa\Ticket\TicketingSystem.Shared\obj\Debug\net9.0\ref\TicketingSystem.Shared.dll
+E:\Mostafa\Ticket\TicketingSystem.Shared\obj\Debug\net9.0\TicketingSystem.Shared.csproj.AssemblyReference.cache
