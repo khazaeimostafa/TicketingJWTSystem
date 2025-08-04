@@ -10,3 +10,4 @@ E:\Mostafa\Ticket\TicketingSystem.Shared\obj\Debug\net9.0\refint\TicketingSystem
 E:\Mostafa\Ticket\TicketingSystem.Shared\obj\Debug\net9.0\TicketingSystem.Shared.pdb
 E:\Mostafa\Ticket\TicketingSystem.Shared\obj\Debug\net9.0\ref\TicketingSystem.Shared.dll
 E:\Mostafa\Ticket\TicketingSystem.Shared\obj\Debug\net9.0\TicketingSystem.Shared.csproj.AssemblyReference.cache
+E:\Mostafa\Ticket\TicketingSystem.Shared\obj\Debug\net9.0\TicketingSystem.Shared.sourcelink.json

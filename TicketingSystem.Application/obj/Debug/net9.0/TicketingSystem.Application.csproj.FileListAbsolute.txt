@@ -15,3 +15,4 @@ E:\Mostafa\Ticket\TicketingSystem.Application\obj\Debug\net9.0\TicketingSystem.A
 E:\Mostafa\Ticket\TicketingSystem.Application\obj\Debug\net9.0\refint\TicketingSystem.Application.dll
 E:\Mostafa\Ticket\TicketingSystem.Application\obj\Debug\net9.0\TicketingSystem.Application.pdb
 E:\Mostafa\Ticket\TicketingSystem.Application\obj\Debug\net9.0\ref\TicketingSystem.Application.dll
+E:\Mostafa\Ticket\TicketingSystem.Application\obj\Debug\net9.0\TicketingSystem.Application.sourcelink.json

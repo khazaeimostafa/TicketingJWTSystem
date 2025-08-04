@@ -19,3 +19,4 @@ E:\Mostafa\Ticket\TicketingSystem.Infrastructure\obj\Debug\net9.0\TicketingSyste
 E:\Mostafa\Ticket\TicketingSystem.Infrastructure\obj\Debug\net9.0\ref\TicketingSystem.Infrastructure.dll
 E:\Mostafa\Ticket\TicketingSystem.Infrastructure\bin\Debug\net9.0\TicketingSystem.Infrastructure.runtimeconfig.json
 E:\Mostafa\Ticket\TicketingSystem.Infrastructure\obj\Debug\net9.0\TicketingSystem.Infrastructure.genruntimeconfig.cache
+E:\Mostafa\Ticket\TicketingSystem.Infrastructure\obj\Debug\net9.0\TicketingSystem.Infrastructure.sourcelink.json
