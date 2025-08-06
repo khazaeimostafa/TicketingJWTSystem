@@ -1,4 +1,4 @@
-﻿using FluentValidation;
+using FluentValidation;
 using FluentValidation.AspNetCore;
 using MediatR;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -56,10 +56,7 @@ builder.Services.AddControllers();
 
 
 
-builder.Services.AddMediatR(cfg =>
-{
-    cfg.RegisterServicesFromAssembly(typeof(CreateTicketCommand).Assembly);
-});
+builder.Services.AddMediatR(typeof(CreateTicketCommand).Assembly);
 
 builder.Services
     .AddFluentValidationAutoValidation()

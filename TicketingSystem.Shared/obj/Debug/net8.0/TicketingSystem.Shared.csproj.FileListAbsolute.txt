@@ -1,0 +1,13 @@
+/workspace/TicketingSystem.Shared/bin/Debug/net8.0/TicketingSystem.Shared.deps.json
+/workspace/TicketingSystem.Shared/bin/Debug/net8.0/TicketingSystem.Shared.dll
+/workspace/TicketingSystem.Shared/bin/Debug/net8.0/TicketingSystem.Shared.pdb
+/workspace/TicketingSystem.Shared/obj/Debug/net8.0/TicketingSystem.Shared.csproj.AssemblyReference.cache
+/workspace/TicketingSystem.Shared/obj/Debug/net8.0/TicketingSystem.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/TicketingSystem.Shared/obj/Debug/net8.0/TicketingSystem.Shared.AssemblyInfoInputs.cache
+/workspace/TicketingSystem.Shared/obj/Debug/net8.0/TicketingSystem.Shared.AssemblyInfo.cs
+/workspace/TicketingSystem.Shared/obj/Debug/net8.0/TicketingSystem.Shared.csproj.CoreCompileInputs.cache
+/workspace/TicketingSystem.Shared/obj/Debug/net8.0/TicketingSystem.Shared.sourcelink.json
+/workspace/TicketingSystem.Shared/obj/Debug/net8.0/TicketingSystem.Shared.dll
+/workspace/TicketingSystem.Shared/obj/Debug/net8.0/refint/TicketingSystem.Shared.dll
+/workspace/TicketingSystem.Shared/obj/Debug/net8.0/TicketingSystem.Shared.pdb
+/workspace/TicketingSystem.Shared/obj/Debug/net8.0/ref/TicketingSystem.Shared.dll
