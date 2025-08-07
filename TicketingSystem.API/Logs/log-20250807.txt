@@ -1,0 +1,1342 @@
+2025-08-07 16:47:07.325 +03:30 [INF] Starting up  the service  .... 
+2025-08-07 16:48:20.836 +03:30 [INF] Starting up  the service  .... 
+2025-08-07 16:48:37.305 +03:30 [INF] Starting up  the service  .... 
+2025-08-07 17:09:34.882 +03:30 [INF] Starting up  the service  .... 
+2025-08-07 17:09:35.708 +03:30 [INF] User profile is available. Using 'C:\Users\Mostafa\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-08-07 17:09:35.935 +03:30 [INF] Now listening on: https://localhost:7254
+2025-08-07 17:09:35.935 +03:30 [INF] Now listening on: http://localhost:5219
+2025-08-07 17:09:35.938 +03:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-07 17:09:35.940 +03:30 [INF] Hosting environment: Development
+2025-08-07 17:09:35.940 +03:30 [INF] Content root path: E:\Mostafa\Ticket\TicketingSystem.API
+2025-08-07 17:09:36.187 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/ - null null
+2025-08-07 17:09:36.219 +03:30 [INF] Executing endpoint 'HTTP: GET /'
+2025-08-07 17:09:36.221 +03:30 [INF] Executed endpoint 'HTTP: GET /'
+2025-08-07 17:09:36.234 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/ - 302 0 null 49.4082ms
+2025-08-07 17:09:36.435 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - null null
+2025-08-07 17:09:36.598 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 163.1647ms
+2025-08-07 17:09:46.579 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/metrics - null null
+2025-08-07 17:09:46.580 +03:30 [INF] Executing endpoint 'Prometheus metrics'
+2025-08-07 17:09:46.843 +03:30 [INF] Executed endpoint 'Prometheus metrics'
+2025-08-07 17:09:46.843 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/metrics - 200 null text/plain; version=0.0.4; charset=utf-8 263.9982ms
+2025-08-07 17:09:46.881 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/favicon.ico - null null
+2025-08-07 17:09:46.940 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/favicon.ico - 404 0 null 61.6489ms
+2025-08-07 17:09:46.942 +03:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7254/favicon.ico, Response status code: 404
+2025-08-07 17:11:10.232 +03:30 [INF] Starting up  the service  .... 
+2025-08-07 17:11:10.979 +03:30 [INF] User profile is available. Using 'C:\Users\Mostafa\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-08-07 17:11:11.259 +03:30 [INF] Now listening on: https://localhost:7254
+2025-08-07 17:11:11.260 +03:30 [INF] Now listening on: http://localhost:5219
+2025-08-07 17:11:11.263 +03:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-07 17:11:11.263 +03:30 [INF] Hosting environment: Development
+2025-08-07 17:11:11.263 +03:30 [INF] Content root path: E:\Mostafa\Ticket\TicketingSystem.API
+2025-08-07 17:11:11.460 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/ - null null
+2025-08-07 17:11:11.568 +03:30 [INF] Executing endpoint 'HTTP: GET /'
+2025-08-07 17:11:11.568 +03:30 [INF] Executed endpoint 'HTTP: GET /'
+2025-08-07 17:11:11.578 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/ - 302 0 null 119.537ms
+2025-08-07 17:11:11.690 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - null null
+2025-08-07 17:11:11.856 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 166.5747ms
+2025-08-07 17:11:20.748 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/metrics - null null
+2025-08-07 17:11:20.750 +03:30 [INF] Executing endpoint 'Prometheus metrics'
+2025-08-07 17:11:20.921 +03:30 [INF] Executed endpoint 'Prometheus metrics'
+2025-08-07 17:11:20.922 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/metrics - 200 null text/plain; version=0.0.4; charset=utf-8 173.9678ms
+2025-08-07 17:12:02.298 +03:30 [INF] Starting up  the service  .... 
+2025-08-07 17:12:03.559 +03:30 [INF] User profile is available. Using 'C:\Users\Mostafa\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-08-07 17:12:03.805 +03:30 [INF] Now listening on: https://localhost:7254
+2025-08-07 17:12:03.807 +03:30 [INF] Now listening on: http://localhost:5219
+2025-08-07 17:12:04.040 +03:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-07 17:12:04.042 +03:30 [INF] Hosting environment: Development
+2025-08-07 17:12:04.043 +03:30 [INF] Content root path: E:\Mostafa\Ticket\TicketingSystem.API
+2025-08-07 17:12:14.513 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/ - null null
+2025-08-07 17:12:14.753 +03:30 [INF] Executing endpoint 'HTTP: GET /'
+2025-08-07 17:12:14.755 +03:30 [INF] Executed endpoint 'HTTP: GET /'
+2025-08-07 17:12:14.762 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/ - 302 0 null 254.7745ms
+2025-08-07 17:12:14.862 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - null null
+2025-08-07 17:12:14.886 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 24.3642ms
+2025-08-07 17:12:19.914 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/metrics - null null
+2025-08-07 17:12:19.944 +03:30 [INF] Executing endpoint 'Prometheus metrics'
+2025-08-07 17:12:20.140 +03:30 [INF] Executed endpoint 'Prometheus metrics'
+2025-08-07 17:12:20.143 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/metrics - 200 null text/plain; version=0.0.4; charset=utf-8 229.0336ms
+2025-08-07 17:12:30.455 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:5219/ - null null
+2025-08-07 17:12:30.504 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:5219/ - 307 0 null 49.6439ms
+2025-08-07 17:12:30.509 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/ - null null
+2025-08-07 17:12:30.534 +03:30 [INF] Executing endpoint 'HTTP: GET /'
+2025-08-07 17:12:30.535 +03:30 [INF] Executed endpoint 'HTTP: GET /'
+2025-08-07 17:12:30.536 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/ - 302 0 null 26.7674ms
+2025-08-07 17:12:30.668 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - null null
+2025-08-07 17:12:30.685 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 16.798ms
+2025-08-07 17:12:34.918 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/metrics - null null
+2025-08-07 17:12:34.948 +03:30 [INF] Executing endpoint 'Prometheus metrics'
+2025-08-07 17:12:34.957 +03:30 [INF] Executed endpoint 'Prometheus metrics'
+2025-08-07 17:12:34.958 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/metrics - 200 null text/plain; version=0.0.4; charset=utf-8 40.6345ms
+2025-08-07 17:12:47.943 +03:30 [INF] Starting up  the service  .... 
+2025-08-07 17:12:48.786 +03:30 [INF] User profile is available. Using 'C:\Users\Mostafa\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-08-07 17:12:48.979 +03:30 [INF] Request starting HTTP/2 GET https://localhost:44316/ - null null
+2025-08-07 17:12:49.160 +03:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-07 17:12:49.160 +03:30 [INF] Hosting environment: Development
+2025-08-07 17:12:49.160 +03:30 [INF] Content root path: E:\Mostafa\Ticket\TicketingSystem.API
+2025-08-07 17:12:49.247 +03:30 [INF] Executing endpoint 'HTTP: GET /'
+2025-08-07 17:12:49.248 +03:30 [INF] Executed endpoint 'HTTP: GET /'
+2025-08-07 17:12:49.296 +03:30 [INF] Request finished HTTP/2 GET https://localhost:44316/ - 302 null null 328.1083ms
+2025-08-07 17:12:49.339 +03:30 [INF] Request starting HTTP/2 GET https://localhost:44316/_framework/aspnetcore-browser-refresh.js - null null
+2025-08-07 17:12:49.339 +03:30 [INF] Request starting HTTP/2 GET https://localhost:44316/_vs/browserLink - null null
+2025-08-07 17:12:49.393 +03:30 [INF] Request finished HTTP/2 GET https://localhost:44316/_framework/aspnetcore-browser-refresh.js - 200 16523 application/javascript; charset=utf-8 28.5163ms
+2025-08-07 17:12:49.417 +03:30 [INF] Request finished HTTP/2 GET https://localhost:44316/_vs/browserLink - 200 null text/javascript; charset=UTF-8 78.81ms
+2025-08-07 17:12:49.497 +03:30 [INF] Request starting HTTP/2 GET https://localhost:44316/swagger/v1/swagger.json - null null
+2025-08-07 17:12:49.512 +03:30 [INF] Request finished HTTP/2 GET https://localhost:44316/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 14.4645ms
+2025-08-07 17:12:53.258 +03:30 [INF] Request starting HTTP/2 GET https://localhost:44316/metrics - null null
+2025-08-07 17:12:53.287 +03:30 [INF] Executing endpoint 'Prometheus metrics'
+2025-08-07 17:12:53.518 +03:30 [INF] Executed endpoint 'Prometheus metrics'
+2025-08-07 17:12:53.519 +03:30 [INF] Request finished HTTP/2 GET https://localhost:44316/metrics - 200 null text/plain; version=0.0.4; charset=utf-8 260.7877ms
+2025-08-07 17:12:53.557 +03:30 [INF] Request starting HTTP/2 GET https://localhost:44316/favicon.ico - null null
+2025-08-07 17:12:53.561 +03:30 [INF] Request finished HTTP/2 GET https://localhost:44316/favicon.ico - 404 null null 5.7283ms
+2025-08-07 17:12:53.564 +03:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:44316/favicon.ico, Response status code: 404
+2025-08-07 17:42:28.808 +03:30 [INF] Starting up  the service  .... 
+2025-08-07 17:42:29.695 +03:30 [INF] User profile is available. Using 'C:\Users\Mostafa\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-08-07 17:42:30.008 +03:30 [INF] Now listening on: https://localhost:7254
+2025-08-07 17:42:30.009 +03:30 [INF] Now listening on: http://localhost:5219
+2025-08-07 17:42:30.013 +03:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-07 17:42:30.013 +03:30 [INF] Hosting environment: Development
+2025-08-07 17:42:30.013 +03:30 [INF] Content root path: E:\Mostafa\Ticket\TicketingSystem.API
+2025-08-07 17:42:30.221 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/ - null null
+2025-08-07 17:42:30.353 +03:30 [INF] Executing endpoint 'HTTP: GET /'
+2025-08-07 17:42:30.354 +03:30 [INF] Executed endpoint 'HTTP: GET /'
+2025-08-07 17:42:30.364 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/ - 302 0 null 144.3576ms
+2025-08-07 17:42:30.505 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - null null
+2025-08-07 17:42:30.700 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 194.9261ms
+2025-08-07 18:03:07.453 +03:30 [INF] Starting up  the service  .... 
+2025-08-07 18:03:08.170 +03:30 [INF] User profile is available. Using 'C:\Users\Mostafa\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-08-07 18:03:08.390 +03:30 [INF] Now listening on: https://localhost:7254
+2025-08-07 18:03:08.391 +03:30 [INF] Now listening on: http://localhost:5219
+2025-08-07 18:03:08.394 +03:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-07 18:03:08.395 +03:30 [INF] Hosting environment: Development
+2025-08-07 18:03:08.395 +03:30 [INF] Content root path: E:\Mostafa\Ticket\TicketingSystem.API
+2025-08-07 18:03:08.558 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/ - null null
+2025-08-07 18:03:08.670 +03:30 [INF] Executing endpoint 'HTTP: GET /'
+2025-08-07 18:03:08.670 +03:30 [INF] Executed endpoint 'HTTP: GET /'
+2025-08-07 18:03:08.677 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/ - 302 0 null 121.506ms
+2025-08-07 18:03:08.795 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - null null
+2025-08-07 18:03:08.937 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 142.5003ms
+2025-08-07 18:03:57.761 +03:30 [INF] Request starting HTTP/2 POST https://localhost:7254/api/Auth/register - application/json 128
+2025-08-07 18:03:57.774 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.AuthController.Register (TicketingSystem.API)'
+2025-08-07 18:03:57.794 +03:30 [INF] Route matched with {action = "Register", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(TicketingSystem.API.RequestDTOs.AuthDTOs.RegisterDto) on controller TicketingSystem.API.Controllers.AuthController (TicketingSystem.API).
+2025-08-07 18:03:57.798 +03:30 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-08-07 18:03:58.415 +03:30 [WRN] The foreign key property 'RefreshToken.UserId1' was created in shadow state because a conflicting property with the simple name 'UserId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2025-08-07 18:03:58.774 +03:30 [INF] Executed DbCommand (11ms) [Parameters=[@__email_0='?' (Size = 17)], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM "Users" AS "u"
+    WHERE "u"."Email" = @__email_0)
+2025-08-07 18:04:01.038 +03:30 [INF] Executed DbCommand (1,809ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = DateTime), @p2='?' (Size = 17), @p3='?' (Size = 4), @p4='?' (Size = 7), @p5='?' (Size = 60), @p6='?' (DbType = Int32), @p7='?' (DbType = DateTime)], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "Users" ("Id", "CreatedAt", "Email", "FirstName", "LastName", "PasswordHash", "Role", "UpdatedAt")
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7);
+2025-08-07 18:04:01.091 +03:30 [INF] Executing OkObjectResult, writing value of type 'TicketingSystem.Application.UserCommandandQueries.RegisterCommands.RegisterCommandResponse'.
+2025-08-07 18:04:01.101 +03:30 [INF] Executed action TicketingSystem.API.Controllers.AuthController.Register (TicketingSystem.API) in 3305.2849ms
+2025-08-07 18:04:01.102 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.AuthController.Register (TicketingSystem.API)'
+2025-08-07 18:04:01.107 +03:30 [INF] Request finished HTTP/2 POST https://localhost:7254/api/Auth/register - 200 null application/json; charset=utf-8 3345.5462ms
+2025-08-07 18:04:28.339 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 18:04:28.413 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 18:04:28.416 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 18:04:28.493 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 18:04:28.494 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 18:04:28.502 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 85.4149ms
+2025-08-07 18:04:28.502 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 18:04:28.503 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 163.7941ms
+2025-08-07 18:04:39.592 +03:30 [INF] Request starting HTTP/2 POST https://localhost:7254/api/Tickets - application/json 67
+2025-08-07 18:04:39.595 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.CreateTicket (TicketingSystem.API)'
+2025-08-07 18:04:39.598 +03:30 [INF] Route matched with {action = "CreateTicket", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[TicketingSystem.Application.Tickets.Commands.CreateTicket.CreateTicketCommandResponse] CreateTicket(TicketingSystem.API.RequestDTOs.TicketDTOs.CreateTicketDTOs) on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 18:04:39.642 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__Trim_0='?' (Size = 6)], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM "Tickets" AS "t"
+    WHERE trim(lower("t"."Title")) = @__Trim_0)
+2025-08-07 18:04:39.720 +03:30 [INF] Executed DbCommand (41ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = Guid), @p2='?' (DbType = DateTime), @p3='?' (DbType = Guid), @p4='?' (Size = 6), @p5='?' (DbType = Int32), @p6='?' (DbType = Int32), @p7='?' (Size = 6), @p8='?' (DbType = DateTime)], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "Tickets" ("Id", "AssignedToUserId", "CreatedAt", "CreatedByUserId", "Description", "Priority", "Status", "Title", "UpdatedAt")
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8);
+2025-08-07 18:04:39.721 +03:30 [INF] Executing ObjectResult, writing value of type 'TicketingSystem.Application.Tickets.Commands.CreateTicket.CreateTicketCommandResponse'.
+2025-08-07 18:04:39.722 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.CreateTicket (TicketingSystem.API) in 124.4667ms
+2025-08-07 18:04:39.722 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.CreateTicket (TicketingSystem.API)'
+2025-08-07 18:04:39.723 +03:30 [INF] Request finished HTTP/2 POST https://localhost:7254/api/Tickets - 200 null application/json; charset=utf-8 130.3996ms
+2025-08-07 18:04:42.193 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 18:04:42.199 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 18:04:42.200 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 18:04:42.205 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 18:04:42.211 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 18:04:42.213 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 13.1991ms
+2025-08-07 18:04:42.213 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 18:04:42.213 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 20.2287ms
+2025-08-07 18:26:15.564 +03:30 [INF] Starting up  the service  .... 
+2025-08-07 18:26:16.269 +03:30 [INF] User profile is available. Using 'C:\Users\Mostafa\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-08-07 18:26:16.484 +03:30 [INF] Now listening on: https://localhost:7254
+2025-08-07 18:26:16.485 +03:30 [INF] Now listening on: http://localhost:5219
+2025-08-07 18:26:16.487 +03:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-07 18:26:16.487 +03:30 [INF] Hosting environment: Development
+2025-08-07 18:26:16.487 +03:30 [INF] Content root path: E:\Mostafa\Ticket\TicketingSystem.API
+2025-08-07 18:26:16.710 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/ - null null
+2025-08-07 18:26:16.813 +03:30 [INF] Executing endpoint 'HTTP: GET /'
+2025-08-07 18:26:16.814 +03:30 [INF] Executed endpoint 'HTTP: GET /'
+2025-08-07 18:26:16.821 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/ - 302 0 null 112.5037ms
+2025-08-07 18:26:16.936 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - null null
+2025-08-07 18:26:17.089 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 153.6261ms
+2025-08-07 18:33:14.521 +03:30 [INF] Starting up  the service  .... 
+2025-08-07 18:33:15.243 +03:30 [INF] User profile is available. Using 'C:\Users\Mostafa\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-08-07 18:33:15.437 +03:30 [INF] Now listening on: https://localhost:7254
+2025-08-07 18:33:15.438 +03:30 [INF] Now listening on: http://localhost:5219
+2025-08-07 18:33:15.440 +03:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-07 18:33:15.441 +03:30 [INF] Hosting environment: Development
+2025-08-07 18:33:15.441 +03:30 [INF] Content root path: E:\Mostafa\Ticket\TicketingSystem.API
+2025-08-07 18:33:15.606 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/ - null null
+2025-08-07 18:33:15.701 +03:30 [INF] Executing endpoint 'HTTP: GET /'
+2025-08-07 18:33:15.701 +03:30 [INF] Executed endpoint 'HTTP: GET /'
+2025-08-07 18:33:15.708 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/ - 302 0 null 103.3695ms
+2025-08-07 18:33:15.826 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - null null
+2025-08-07 18:33:15.976 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 150.3614ms
+2025-08-07 18:33:25.399 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/metrics - null null
+2025-08-07 18:33:25.401 +03:30 [INF] Executing endpoint 'Prometheus metrics'
+2025-08-07 18:33:25.638 +03:30 [INF] Executed endpoint 'Prometheus metrics'
+2025-08-07 18:33:25.639 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/metrics - 200 null text/plain; version=0.0.4; charset=utf-8 240.3388ms
+2025-08-07 18:34:29.328 +03:30 [INF] Starting up  the service  .... 
+2025-08-07 18:34:29.995 +03:30 [INF] User profile is available. Using 'C:\Users\Mostafa\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-08-07 18:34:30.249 +03:30 [INF] Now listening on: https://localhost:7254
+2025-08-07 18:34:30.250 +03:30 [INF] Now listening on: http://localhost:5219
+2025-08-07 18:34:30.252 +03:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-07 18:34:30.252 +03:30 [INF] Hosting environment: Development
+2025-08-07 18:34:30.252 +03:30 [INF] Content root path: E:\Mostafa\Ticket\TicketingSystem.API
+2025-08-07 18:34:30.429 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/ - null null
+2025-08-07 18:34:30.528 +03:30 [INF] Executing endpoint 'HTTP: GET /'
+2025-08-07 18:34:30.528 +03:30 [INF] Executed endpoint 'HTTP: GET /'
+2025-08-07 18:34:30.540 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/ - 302 0 null 111.9704ms
+2025-08-07 18:34:30.656 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - null null
+2025-08-07 18:34:30.814 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 157.7457ms
+2025-08-07 18:34:38.053 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/metrics - null null
+2025-08-07 18:34:38.055 +03:30 [INF] Executing endpoint 'Prometheus metrics'
+2025-08-07 18:34:38.333 +03:30 [INF] Executed endpoint 'Prometheus metrics'
+2025-08-07 18:34:38.334 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/metrics - 200 null text/plain; version=0.0.4; charset=utf-8 281.1752ms
+2025-08-07 18:37:33.943 +03:30 [INF] Starting up  the service  .... 
+2025-08-07 18:37:34.204 +03:30 [INF] User profile is available. Using 'C:\Users\Mostafa\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-08-07 18:37:34.303 +03:30 [INF] Now listening on: http://localhost:5219
+2025-08-07 18:37:34.307 +03:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-07 18:37:34.309 +03:30 [INF] Hosting environment: Development
+2025-08-07 18:37:34.310 +03:30 [INF] Content root path: E:\Mostafa\Ticket\TicketingSystem.API
+2025-08-07 18:37:52.911 +03:30 [INF] Application is shutting down...
+2025-08-07 18:39:05.704 +03:30 [INF] Starting up  the service  .... 
+2025-08-07 18:39:06.387 +03:30 [INF] User profile is available. Using 'C:\Users\Mostafa\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-08-07 18:39:06.624 +03:30 [INF] Now listening on: https://localhost:7254
+2025-08-07 18:39:06.877 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/ - null null
+2025-08-07 18:39:08.397 +03:30 [INF] Now listening on: http://localhost:5219
+2025-08-07 18:39:08.400 +03:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-07 18:39:08.401 +03:30 [INF] Hosting environment: Development
+2025-08-07 18:39:08.401 +03:30 [INF] Content root path: E:\Mostafa\Ticket\TicketingSystem.API
+2025-08-07 18:39:08.487 +03:30 [INF] Executing endpoint 'HTTP: GET /'
+2025-08-07 18:39:08.487 +03:30 [INF] Executed endpoint 'HTTP: GET /'
+2025-08-07 18:39:08.493 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/ - 302 0 null 1617.7371ms
+2025-08-07 18:39:08.602 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - null null
+2025-08-07 18:39:08.750 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 148.3973ms
+2025-08-07 18:40:34.115 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/metrics - null null
+2025-08-07 18:40:34.160 +03:30 [INF] Executing endpoint 'Prometheus metrics'
+2025-08-07 18:40:34.336 +03:30 [INF] Executed endpoint 'Prometheus metrics'
+2025-08-07 18:40:34.338 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/metrics - 200 null text/plain; version=0.0.4; charset=utf-8 222.6154ms
+2025-08-07 18:45:05.112 +03:30 [INF] Starting up  the service  .... 
+2025-08-07 18:45:05.775 +03:30 [INF] User profile is available. Using 'C:\Users\Mostafa\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-08-07 18:45:05.991 +03:30 [INF] Now listening on: https://localhost:7254
+2025-08-07 18:45:05.992 +03:30 [INF] Now listening on: http://localhost:5219
+2025-08-07 18:45:05.994 +03:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-07 18:45:05.995 +03:30 [INF] Hosting environment: Development
+2025-08-07 18:45:05.995 +03:30 [INF] Content root path: E:\Mostafa\Ticket\TicketingSystem.API
+2025-08-07 18:45:06.157 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/ - null null
+2025-08-07 18:45:06.260 +03:30 [INF] Executing endpoint 'HTTP: GET /'
+2025-08-07 18:45:06.260 +03:30 [INF] Executed endpoint 'HTTP: GET /'
+2025-08-07 18:45:06.270 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/ - 302 0 null 113.2876ms
+2025-08-07 18:45:06.378 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - null null
+2025-08-07 18:45:06.526 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 147.8114ms
+2025-08-07 18:51:52.606 +03:30 [INF] Request starting HTTP/2 POST https://localhost:7254/api/Auth/register - application/json 125
+2025-08-07 18:51:52.669 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.AuthController.Register (TicketingSystem.API)'
+2025-08-07 18:51:52.698 +03:30 [INF] Route matched with {action = "Register", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(TicketingSystem.API.RequestDTOs.AuthDTOs.RegisterDto) on controller TicketingSystem.API.Controllers.AuthController (TicketingSystem.API).
+2025-08-07 18:51:52.702 +03:30 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-08-07 18:51:53.370 +03:30 [WRN] The foreign key property 'RefreshToken.UserId1' was created in shadow state because a conflicting property with the simple name 'UserId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2025-08-07 18:51:53.751 +03:30 [INF] Executed DbCommand (11ms) [Parameters=[@__email_0='?' (Size = 15)], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM "Users" AS "u"
+    WHERE "u"."Email" = @__email_0)
+2025-08-07 18:51:56.061 +03:30 [INF] Executed DbCommand (1,838ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = DateTime), @p2='?' (Size = 15), @p3='?' (Size = 6), @p4='?' (Size = 6), @p5='?' (Size = 60), @p6='?' (DbType = Int32), @p7='?' (DbType = DateTime)], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "Users" ("Id", "CreatedAt", "Email", "FirstName", "LastName", "PasswordHash", "Role", "UpdatedAt")
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7);
+2025-08-07 18:51:56.098 +03:30 [INF] Executing OkObjectResult, writing value of type 'TicketingSystem.Application.UserCommandandQueries.RegisterCommands.RegisterCommandResponse'.
+2025-08-07 18:51:56.107 +03:30 [INF] Executed action TicketingSystem.API.Controllers.AuthController.Register (TicketingSystem.API) in 3406.5699ms
+2025-08-07 18:51:56.107 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.AuthController.Register (TicketingSystem.API)'
+2025-08-07 18:51:56.112 +03:30 [INF] Request finished HTTP/2 POST https://localhost:7254/api/Auth/register - 200 null application/json; charset=utf-8 3506.5474ms
+2025-08-07 18:52:26.102 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 18:52:26.155 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 18:52:26.159 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 18:52:26.236 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 18:52:26.237 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 18:52:26.247 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 87.7822ms
+2025-08-07 18:52:26.247 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 18:52:26.248 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 145.0561ms
+2025-08-07 18:52:40.134 +03:30 [INF] Request starting HTTP/2 POST https://localhost:7254/api/Tickets - application/json 67
+2025-08-07 18:52:40.136 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.CreateTicket (TicketingSystem.API)'
+2025-08-07 18:52:40.141 +03:30 [INF] Route matched with {action = "CreateTicket", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[TicketingSystem.Application.Tickets.Commands.CreateTicket.CreateTicketCommandResponse] CreateTicket(TicketingSystem.API.RequestDTOs.TicketDTOs.CreateTicketDTOs) on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 18:52:40.186 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__Trim_0='?' (Size = 6)], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM "Tickets" AS "t"
+    WHERE trim(lower("t"."Title")) = @__Trim_0)
+2025-08-07 18:52:48.287 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.CreateTicket (TicketingSystem.API) in 8146.3792ms
+2025-08-07 18:52:48.289 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.CreateTicket (TicketingSystem.API)'
+2025-08-07 18:52:48.295 +03:30 [ERR] An unhandled exception has occurred while executing the request.
+FluentValidation.ValidationException: Validation failed: 
+ -- Title: تیکتی با این عنوان قبلاً ثبت شده است. Severity: Error
+   at TicketingSystem.Application.Behaviors.ValidationBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken) in E:\Mostafa\Ticket\TicketingSystem.Application\Behaviors\ValidationBehavior.cs:line 39
+   at TicketingSystem.API.Controllers.TicketsController.CreateTicket(CreateTicketDTOs requestDto) in E:\Mostafa\Ticket\TicketingSystem.API\Controllers\TicketsController.cs:line 35
+   at lambda_method150(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Prometheus.HttpMetrics.HttpRequestDurationMiddleware.Invoke(HttpContext context)
+   at Prometheus.HttpMetrics.HttpRequestCountMiddleware.Invoke(HttpContext context)
+   at Prometheus.HttpMetrics.HttpInProgressMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-08-07 18:52:48.373 +03:30 [INF] Request finished HTTP/2 POST https://localhost:7254/api/Tickets - 500 null text/plain; charset=utf-8 8239.8755ms
+2025-08-07 18:52:54.142 +03:30 [INF] Request starting HTTP/2 POST https://localhost:7254/api/Tickets - application/json 68
+2025-08-07 18:52:54.146 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.CreateTicket (TicketingSystem.API)'
+2025-08-07 18:52:54.146 +03:30 [INF] Route matched with {action = "CreateTicket", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[TicketingSystem.Application.Tickets.Commands.CreateTicket.CreateTicketCommandResponse] CreateTicket(TicketingSystem.API.RequestDTOs.TicketDTOs.CreateTicketDTOs) on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 18:52:54.156 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__Trim_0='?' (Size = 7)], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM "Tickets" AS "t"
+    WHERE trim(lower("t"."Title")) = @__Trim_0)
+2025-08-07 18:52:54.231 +03:30 [INF] Executed DbCommand (33ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = Guid), @p2='?' (DbType = DateTime), @p3='?' (DbType = Guid), @p4='?' (Size = 6), @p5='?' (DbType = Int32), @p6='?' (DbType = Int32), @p7='?' (Size = 7), @p8='?' (DbType = DateTime)], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "Tickets" ("Id", "AssignedToUserId", "CreatedAt", "CreatedByUserId", "Description", "Priority", "Status", "Title", "UpdatedAt")
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8);
+2025-08-07 18:52:54.233 +03:30 [INF] Executing ObjectResult, writing value of type 'TicketingSystem.Application.Tickets.Commands.CreateTicket.CreateTicketCommandResponse'.
+2025-08-07 18:52:54.234 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.CreateTicket (TicketingSystem.API) in 88.0066ms
+2025-08-07 18:52:54.234 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.CreateTicket (TicketingSystem.API)'
+2025-08-07 18:52:54.235 +03:30 [INF] Request finished HTTP/2 POST https://localhost:7254/api/Tickets - 200 null application/json; charset=utf-8 92.7511ms
+2025-08-07 20:19:11.644 +03:30 [INF] Request starting HTTP/2 POST https://localhost:7254/api/Tickets - application/json 69
+2025-08-07 20:19:11.646 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.CreateTicket (TicketingSystem.API)'
+2025-08-07 20:19:11.646 +03:30 [INF] Route matched with {action = "CreateTicket", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[TicketingSystem.Application.Tickets.Commands.CreateTicket.CreateTicketCommandResponse] CreateTicket(TicketingSystem.API.RequestDTOs.TicketDTOs.CreateTicketDTOs) on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:19:11.651 +03:30 [INF] Executed DbCommand (1ms) [Parameters=[@__Trim_0='?' (Size = 8)], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM "Tickets" AS "t"
+    WHERE trim(lower("t"."Title")) = @__Trim_0)
+2025-08-07 20:19:13.455 +03:30 [INF] Executed DbCommand (1,801ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = Guid), @p2='?' (DbType = DateTime), @p3='?' (DbType = Guid), @p4='?' (Size = 6), @p5='?' (DbType = Int32), @p6='?' (DbType = Int32), @p7='?' (Size = 8), @p8='?' (DbType = DateTime)], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "Tickets" ("Id", "AssignedToUserId", "CreatedAt", "CreatedByUserId", "Description", "Priority", "Status", "Title", "UpdatedAt")
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8);
+2025-08-07 20:19:13.457 +03:30 [INF] Executing ObjectResult, writing value of type 'TicketingSystem.Application.Tickets.Commands.CreateTicket.CreateTicketCommandResponse'.
+2025-08-07 20:19:13.458 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.CreateTicket (TicketingSystem.API) in 1811.3234ms
+2025-08-07 20:19:13.458 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.CreateTicket (TicketingSystem.API)'
+2025-08-07 20:19:13.459 +03:30 [INF] Request finished HTTP/2 POST https://localhost:7254/api/Tickets - 200 null application/json; charset=utf-8 1815.1387ms
+2025-08-07 20:20:25.379 +03:30 [INF] Request starting HTTP/2 POST https://localhost:7254/api/Tickets - application/json 70
+2025-08-07 20:20:25.451 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.CreateTicket (TicketingSystem.API)'
+2025-08-07 20:20:25.452 +03:30 [INF] Route matched with {action = "CreateTicket", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[TicketingSystem.Application.Tickets.Commands.CreateTicket.CreateTicketCommandResponse] CreateTicket(TicketingSystem.API.RequestDTOs.TicketDTOs.CreateTicketDTOs) on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:20:25.456 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__Trim_0='?' (Size = 9)], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM "Tickets" AS "t"
+    WHERE trim(lower("t"."Title")) = @__Trim_0)
+2025-08-07 20:20:27.237 +03:30 [INF] Executed DbCommand (1,777ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = Guid), @p2='?' (DbType = DateTime), @p3='?' (DbType = Guid), @p4='?' (Size = 6), @p5='?' (DbType = Int32), @p6='?' (DbType = Int32), @p7='?' (Size = 9), @p8='?' (DbType = DateTime)], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "Tickets" ("Id", "AssignedToUserId", "CreatedAt", "CreatedByUserId", "Description", "Priority", "Status", "Title", "UpdatedAt")
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8);
+2025-08-07 20:20:27.238 +03:30 [INF] Executing ObjectResult, writing value of type 'TicketingSystem.Application.Tickets.Commands.CreateTicket.CreateTicketCommandResponse'.
+2025-08-07 20:20:27.238 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.CreateTicket (TicketingSystem.API) in 1786.0922ms
+2025-08-07 20:20:27.238 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.CreateTicket (TicketingSystem.API)'
+2025-08-07 20:20:27.239 +03:30 [INF] Request finished HTTP/2 POST https://localhost:7254/api/Tickets - 200 null application/json; charset=utf-8 1859.9159ms
+2025-08-07 20:20:49.741 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:20:49.742 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:49.743 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:20:49.744 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:20:49.751 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:20:49.754 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 10.8958ms
+2025-08-07 20:20:49.754 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:49.754 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 13.0675ms
+2025-08-07 20:20:50.321 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:20:50.322 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:50.322 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:20:50.331 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:20:50.334 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:20:50.335 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 12.191ms
+2025-08-07 20:20:50.335 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:50.335 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 13.5783ms
+2025-08-07 20:20:50.830 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:20:50.830 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:50.830 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:20:50.831 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:20:50.832 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:20:50.832 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 1.5314ms
+2025-08-07 20:20:50.832 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:50.832 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 2.4973ms
+2025-08-07 20:20:51.023 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:20:51.024 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:51.024 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:20:51.025 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:20:51.025 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:20:51.026 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 1.6036ms
+2025-08-07 20:20:51.026 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:51.026 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 2.8322ms
+2025-08-07 20:20:51.226 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:20:51.227 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:51.227 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:20:51.228 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:20:51.229 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:20:51.229 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 1.8168ms
+2025-08-07 20:20:51.229 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:51.236 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 9.7947ms
+2025-08-07 20:20:51.429 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:20:51.430 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:51.430 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:20:51.431 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:20:51.432 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:20:51.433 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 2.5264ms
+2025-08-07 20:20:51.433 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:51.433 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 3.9043ms
+2025-08-07 20:20:51.612 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:20:51.613 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:51.613 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:20:51.614 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:20:51.614 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:20:51.614 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 1.2888ms
+2025-08-07 20:20:51.614 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:51.615 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 2.5375ms
+2025-08-07 20:20:51.800 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:20:51.801 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:51.801 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:20:51.802 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:20:51.802 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:20:51.802 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 1.2509ms
+2025-08-07 20:20:51.802 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:51.803 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 2.1475ms
+2025-08-07 20:20:51.993 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:20:51.994 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:51.994 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:20:51.995 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:20:51.995 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:20:51.996 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 1.6289ms
+2025-08-07 20:20:51.996 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:51.997 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 3.7994ms
+2025-08-07 20:20:52.174 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:20:52.175 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:52.175 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:20:52.176 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:20:52.176 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:20:52.176 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 1.1577ms
+2025-08-07 20:20:52.176 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:52.177 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 2.1353ms
+2025-08-07 20:20:52.365 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:20:52.366 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:52.366 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:20:52.367 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:20:52.367 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:20:52.367 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 1.489ms
+2025-08-07 20:20:52.368 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:52.369 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 3.7824ms
+2025-08-07 20:20:52.564 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:20:52.564 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:52.564 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:20:52.565 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:20:52.567 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:20:52.568 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 3.1263ms
+2025-08-07 20:20:52.568 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:52.568 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 4.1494ms
+2025-08-07 20:20:52.764 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:20:52.764 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:52.764 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:20:52.765 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:20:52.765 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:20:52.766 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 1.2492ms
+2025-08-07 20:20:52.766 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:52.766 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 2.0446ms
+2025-08-07 20:20:52.944 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:20:52.944 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:52.945 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:20:52.946 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:20:52.946 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:20:52.946 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 1.7739ms
+2025-08-07 20:20:52.946 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:52.947 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 2.7218ms
+2025-08-07 20:20:53.127 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:20:53.128 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:53.128 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:20:53.129 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:20:53.129 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:20:53.129 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 1.3891ms
+2025-08-07 20:20:53.129 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:53.129 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 2.2645ms
+2025-08-07 20:20:53.319 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:20:53.319 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:53.320 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:20:53.320 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:20:53.321 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:20:53.321 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 1.3415ms
+2025-08-07 20:20:53.321 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:53.321 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 2.2088ms
+2025-08-07 20:20:53.502 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:20:53.503 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:53.503 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:20:53.504 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:20:53.504 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:20:53.504 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 1.4922ms
+2025-08-07 20:20:53.505 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:53.505 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 2.5534ms
+2025-08-07 20:20:53.695 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:20:53.696 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:53.696 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:20:53.697 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:20:53.697 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:20:53.697 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 1.1711ms
+2025-08-07 20:20:53.697 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:53.698 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 2.1173ms
+2025-08-07 20:20:53.865 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:20:53.865 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:53.865 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:20:53.866 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:20:53.867 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:20:53.867 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 1.487ms
+2025-08-07 20:20:53.867 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:20:53.867 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 2.4279ms
+2025-08-07 20:44:34.168 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:44:34.176 +03:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:34 PM'.
+   at Microsoft.IdentityModel.Tokens.ValidatorUtilities.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+2025-08-07 20:44:34.180 +03:30 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:34 PM'.
+2025-08-07 20:44:34.181 +03:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Employee)
+2025-08-07 20:44:34.186 +03:30 [INF] AuthenticationScheme: Bearer was challenged.
+2025-08-07 20:44:34.186 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 401 0 null 17.9864ms
+2025-08-07 20:44:35.183 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:44:35.184 +03:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:35 PM'.
+   at Microsoft.IdentityModel.Tokens.ValidatorUtilities.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+2025-08-07 20:44:35.184 +03:30 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:35 PM'.
+2025-08-07 20:44:35.185 +03:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Employee)
+2025-08-07 20:44:35.185 +03:30 [INF] AuthenticationScheme: Bearer was challenged.
+2025-08-07 20:44:35.185 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 401 0 null 2.4034ms
+2025-08-07 20:44:35.387 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:44:35.387 +03:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:35 PM'.
+   at Microsoft.IdentityModel.Tokens.ValidatorUtilities.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+2025-08-07 20:44:35.388 +03:30 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:35 PM'.
+2025-08-07 20:44:35.389 +03:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Employee)
+2025-08-07 20:44:35.389 +03:30 [INF] AuthenticationScheme: Bearer was challenged.
+2025-08-07 20:44:35.389 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 401 0 null 2.2534ms
+2025-08-07 20:44:35.601 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:44:35.602 +03:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:35 PM'.
+   at Microsoft.IdentityModel.Tokens.ValidatorUtilities.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+2025-08-07 20:44:35.603 +03:30 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:35 PM'.
+2025-08-07 20:44:35.603 +03:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Employee)
+2025-08-07 20:44:35.603 +03:30 [INF] AuthenticationScheme: Bearer was challenged.
+2025-08-07 20:44:35.603 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 401 0 null 2.099ms
+2025-08-07 20:44:35.817 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:44:35.818 +03:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:35 PM'.
+   at Microsoft.IdentityModel.Tokens.ValidatorUtilities.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+2025-08-07 20:44:35.818 +03:30 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:35 PM'.
+2025-08-07 20:44:35.819 +03:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Employee)
+2025-08-07 20:44:35.819 +03:30 [INF] AuthenticationScheme: Bearer was challenged.
+2025-08-07 20:44:35.819 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 401 0 null 1.8836ms
+2025-08-07 20:44:36.016 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:44:36.017 +03:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:36 PM'.
+   at Microsoft.IdentityModel.Tokens.ValidatorUtilities.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+2025-08-07 20:44:36.017 +03:30 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:36 PM'.
+2025-08-07 20:44:36.018 +03:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Employee)
+2025-08-07 20:44:36.018 +03:30 [INF] AuthenticationScheme: Bearer was challenged.
+2025-08-07 20:44:36.018 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 401 0 null 1.8962ms
+2025-08-07 20:44:36.237 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:44:36.238 +03:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:36 PM'.
+   at Microsoft.IdentityModel.Tokens.ValidatorUtilities.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+2025-08-07 20:44:36.239 +03:30 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:36 PM'.
+2025-08-07 20:44:36.239 +03:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Employee)
+2025-08-07 20:44:36.239 +03:30 [INF] AuthenticationScheme: Bearer was challenged.
+2025-08-07 20:44:36.239 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 401 0 null 2.5456ms
+2025-08-07 20:44:36.424 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:44:36.425 +03:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:36 PM'.
+   at Microsoft.IdentityModel.Tokens.ValidatorUtilities.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+2025-08-07 20:44:36.425 +03:30 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:36 PM'.
+2025-08-07 20:44:36.426 +03:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Employee)
+2025-08-07 20:44:36.426 +03:30 [INF] AuthenticationScheme: Bearer was challenged.
+2025-08-07 20:44:36.426 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 401 0 null 2.2702ms
+2025-08-07 20:44:36.648 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:44:36.648 +03:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:36 PM'.
+   at Microsoft.IdentityModel.Tokens.ValidatorUtilities.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+2025-08-07 20:44:36.649 +03:30 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:36 PM'.
+2025-08-07 20:44:36.649 +03:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Employee)
+2025-08-07 20:44:36.649 +03:30 [INF] AuthenticationScheme: Bearer was challenged.
+2025-08-07 20:44:36.650 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 401 0 null 1.9492ms
+2025-08-07 20:44:36.827 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:44:36.828 +03:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:36 PM'.
+   at Microsoft.IdentityModel.Tokens.ValidatorUtilities.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+2025-08-07 20:44:36.828 +03:30 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:36 PM'.
+2025-08-07 20:44:36.828 +03:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Employee)
+2025-08-07 20:44:36.829 +03:30 [INF] AuthenticationScheme: Bearer was challenged.
+2025-08-07 20:44:36.829 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 401 0 null 1.9826ms
+2025-08-07 20:44:37.026 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:44:37.026 +03:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:37 PM'.
+   at Microsoft.IdentityModel.Tokens.ValidatorUtilities.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+2025-08-07 20:44:37.027 +03:30 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:37 PM'.
+2025-08-07 20:44:37.028 +03:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Employee)
+2025-08-07 20:44:37.028 +03:30 [INF] AuthenticationScheme: Bearer was challenged.
+2025-08-07 20:44:37.028 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 401 0 null 2.1087ms
+2025-08-07 20:44:37.236 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:44:37.237 +03:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:37 PM'.
+   at Microsoft.IdentityModel.Tokens.ValidatorUtilities.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+2025-08-07 20:44:37.237 +03:30 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:37 PM'.
+2025-08-07 20:44:37.238 +03:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Employee)
+2025-08-07 20:44:37.238 +03:30 [INF] AuthenticationScheme: Bearer was challenged.
+2025-08-07 20:44:37.238 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 401 0 null 1.9374ms
+2025-08-07 20:44:37.428 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:44:37.429 +03:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:37 PM'.
+   at Microsoft.IdentityModel.Tokens.ValidatorUtilities.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+2025-08-07 20:44:37.429 +03:30 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:37 PM'.
+2025-08-07 20:44:37.430 +03:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Employee)
+2025-08-07 20:44:37.430 +03:30 [INF] AuthenticationScheme: Bearer was challenged.
+2025-08-07 20:44:37.430 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 401 0 null 1.6457ms
+2025-08-07 20:44:37.638 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:44:37.638 +03:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:37 PM'.
+   at Microsoft.IdentityModel.Tokens.ValidatorUtilities.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+2025-08-07 20:44:37.639 +03:30 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:37 PM'.
+2025-08-07 20:44:37.639 +03:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Employee)
+2025-08-07 20:44:37.639 +03:30 [INF] AuthenticationScheme: Bearer was challenged.
+2025-08-07 20:44:37.639 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 401 0 null 1.7479ms
+2025-08-07 20:44:37.850 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:44:37.851 +03:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:37 PM'.
+   at Microsoft.IdentityModel.Tokens.ValidatorUtilities.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+2025-08-07 20:44:37.851 +03:30 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:37 PM'.
+2025-08-07 20:44:37.852 +03:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Employee)
+2025-08-07 20:44:37.852 +03:30 [INF] AuthenticationScheme: Bearer was challenged.
+2025-08-07 20:44:37.852 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 401 0 null 1.6309ms
+2025-08-07 20:44:38.062 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:44:38.063 +03:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:38 PM'.
+   at Microsoft.IdentityModel.Tokens.ValidatorUtilities.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+2025-08-07 20:44:38.064 +03:30 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:38 PM'.
+2025-08-07 20:44:38.064 +03:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Employee)
+2025-08-07 20:44:38.064 +03:30 [INF] AuthenticationScheme: Bearer was challenged.
+2025-08-07 20:44:38.065 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 401 0 null 2.0577ms
+2025-08-07 20:44:38.256 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:44:38.257 +03:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:38 PM'.
+   at Microsoft.IdentityModel.Tokens.ValidatorUtilities.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+2025-08-07 20:44:38.257 +03:30 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:38 PM'.
+2025-08-07 20:44:38.257 +03:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Employee)
+2025-08-07 20:44:38.258 +03:30 [INF] AuthenticationScheme: Bearer was challenged.
+2025-08-07 20:44:38.258 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 401 0 null 1.7701ms
+2025-08-07 20:44:38.476 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:44:38.477 +03:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:38 PM'.
+   at Microsoft.IdentityModel.Tokens.ValidatorUtilities.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+2025-08-07 20:44:38.477 +03:30 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:38 PM'.
+2025-08-07 20:44:38.477 +03:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Employee)
+2025-08-07 20:44:38.478 +03:30 [INF] AuthenticationScheme: Bearer was challenged.
+2025-08-07 20:44:38.478 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 401 0 null 1.5068ms
+2025-08-07 20:44:38.990 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:44:38.991 +03:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:38 PM'.
+   at Microsoft.IdentityModel.Tokens.ValidatorUtilities.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+2025-08-07 20:44:38.991 +03:30 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:14:38 PM'.
+2025-08-07 20:44:38.992 +03:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Employee)
+2025-08-07 20:44:38.992 +03:30 [INF] AuthenticationScheme: Bearer was challenged.
+2025-08-07 20:44:38.992 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 401 0 null 1.6618ms
+2025-08-07 20:47:45.968 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:47:45.999 +03:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:17:45 PM'.
+   at Microsoft.IdentityModel.Tokens.ValidatorUtilities.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+2025-08-07 20:47:46.000 +03:30 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:17:45 PM'.
+2025-08-07 20:47:46.000 +03:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Employee)
+2025-08-07 20:47:46.000 +03:30 [INF] AuthenticationScheme: Bearer was challenged.
+2025-08-07 20:47:46.000 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 401 0 null 32.2784ms
+2025-08-07 20:47:48.585 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:47:48.585 +03:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:17:48 PM'.
+   at Microsoft.IdentityModel.Tokens.ValidatorUtilities.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+2025-08-07 20:47:48.586 +03:30 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:17:48 PM'.
+2025-08-07 20:47:48.586 +03:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Employee)
+2025-08-07 20:47:48.586 +03:30 [INF] AuthenticationScheme: Bearer was challenged.
+2025-08-07 20:47:48.586 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 401 0 null 1.4552ms
+2025-08-07 20:47:52.845 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:47:52.845 +03:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:17:52 PM'.
+   at Microsoft.IdentityModel.Tokens.ValidatorUtilities.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+2025-08-07 20:47:52.846 +03:30 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:17:52 PM'.
+2025-08-07 20:47:52.846 +03:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Employee)
+2025-08-07 20:47:52.846 +03:30 [INF] AuthenticationScheme: Bearer was challenged.
+2025-08-07 20:47:52.847 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 401 0 null 1.9542ms
+2025-08-07 20:48:47.502 +03:30 [INF] Request starting HTTP/2 POST https://localhost:7254/api/Auth/register - application/json 130
+2025-08-07 20:48:47.503 +03:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:18:47 PM'.
+   at Microsoft.IdentityModel.Tokens.ValidatorUtilities.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+2025-08-07 20:48:47.503 +03:30 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 4:34:01 PM', Current time (UTC): '8/7/2025 5:18:47 PM'.
+2025-08-07 20:48:47.503 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.AuthController.Register (TicketingSystem.API)'
+2025-08-07 20:48:47.503 +03:30 [INF] Route matched with {action = "Register", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(TicketingSystem.API.RequestDTOs.AuthDTOs.RegisterDto) on controller TicketingSystem.API.Controllers.AuthController (TicketingSystem.API).
+2025-08-07 20:48:47.508 +03:30 [INF] Executed DbCommand (1ms) [Parameters=[@__email_0='?' (Size = 18)], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM "Users" AS "u"
+    WHERE "u"."Email" = @__email_0)
+2025-08-07 20:48:49.496 +03:30 [INF] Executed DbCommand (1,782ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = DateTime), @p2='?' (Size = 18), @p3='?' (Size = 5), @p4='?' (Size = 7), @p5='?' (Size = 60), @p6='?' (DbType = Int32), @p7='?' (DbType = DateTime)], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "Users" ("Id", "CreatedAt", "Email", "FirstName", "LastName", "PasswordHash", "Role", "UpdatedAt")
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7);
+2025-08-07 20:48:49.498 +03:30 [INF] Executing OkObjectResult, writing value of type 'TicketingSystem.Application.UserCommandandQueries.RegisterCommands.RegisterCommandResponse'.
+2025-08-07 20:48:49.498 +03:30 [INF] Executed action TicketingSystem.API.Controllers.AuthController.Register (TicketingSystem.API) in 1994.6226ms
+2025-08-07 20:48:49.498 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.AuthController.Register (TicketingSystem.API)'
+2025-08-07 20:48:49.499 +03:30 [INF] Request finished HTTP/2 POST https://localhost:7254/api/Auth/register - 200 null application/json; charset=utf-8 1996.8189ms
+2025-08-07 20:49:22.856 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:49:22.887 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:49:22.887 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:49:30.822 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:49:30.822 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:49:30.823 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 7935.3036ms
+2025-08-07 20:49:30.823 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:49:30.823 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 7966.3206ms
+2025-08-07 20:49:37.907 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:49:37.907 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:49:37.907 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:49:48.594 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:49:48.595 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:49:48.596 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 10688.2672ms
+2025-08-07 20:49:48.596 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:49:48.597 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 10690.0348ms
+2025-08-07 20:49:50.615 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:49:50.616 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:49:50.616 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:49:54.076 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:49:54.076 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:49:54.076 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 3459.8605ms
+2025-08-07 20:49:54.076 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:49:54.076 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 3460.8855ms
+2025-08-07 20:49:55.502 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:49:55.503 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:49:55.503 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:49:57.917 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:49:57.918 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:49:57.918 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 2414.8078ms
+2025-08-07 20:49:57.918 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:49:57.918 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 2415.9491ms
+2025-08-07 20:50:26.459 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:50:26.460 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:50:26.460 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:50:30.337 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:50:30.338 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:50:30.338 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 3877.4285ms
+2025-08-07 20:50:30.338 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:50:30.338 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 3878.5064ms
+2025-08-07 20:50:42.192 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:50:42.192 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:50:42.192 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:50:43.916 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:50:43.916 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:50:43.916 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 1723.9539ms
+2025-08-07 20:50:43.916 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:50:43.916 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 1724.7253ms
+2025-08-07 20:50:48.800 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:50:48.801 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:50:48.801 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:50:50.274 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:50:50.275 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:50:50.275 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 1473.8598ms
+2025-08-07 20:50:50.275 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:50:50.275 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 1474.8934ms
+2025-08-07 20:50:58.968 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:50:58.968 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:50:58.968 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:51:00.441 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:51:00.442 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:51:00.442 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 1473.4474ms
+2025-08-07 20:51:00.442 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:51:00.442 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 1474.4033ms
+2025-08-07 20:51:20.805 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:51:20.806 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:51:20.806 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:51:23.813 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:51:23.813 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:51:23.813 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 3007.5055ms
+2025-08-07 20:51:23.813 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:51:23.814 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 3008.0954ms
+2025-08-07 20:51:30.348 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:51:30.348 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:51:30.348 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:51:33.942 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:51:33.942 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:51:33.942 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 3593.8127ms
+2025-08-07 20:51:33.942 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:51:33.942 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 3594.3869ms
+2025-08-07 20:51:39.435 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:51:39.436 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:51:39.436 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:51:47.783 +03:30 [INF] Executed DbCommand (1ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:51:47.783 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:51:47.784 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 8347.8597ms
+2025-08-07 20:51:47.784 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:51:47.784 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 8348.7901ms
+2025-08-07 20:51:50.491 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:51:50.491 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:51:50.491 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:51:55.083 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:51:55.083 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:51:55.083 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 4591.6441ms
+2025-08-07 20:51:55.083 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:51:55.083 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 4592.4497ms
+2025-08-07 20:52:02.142 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:52:02.143 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:52:02.143 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:52:03.889 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:52:03.889 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:52:03.889 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 1745.8844ms
+2025-08-07 20:52:03.889 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:52:03.889 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 1746.6886ms
+2025-08-07 20:52:05.568 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:52:05.569 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:52:05.569 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:52:07.653 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:52:07.653 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:52:07.653 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 2083.9172ms
+2025-08-07 20:52:07.653 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:52:07.653 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 2084.7751ms
+2025-08-07 20:52:09.128 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:52:09.129 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:52:09.129 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:52:11.449 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:52:11.450 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:52:11.450 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 2320.6897ms
+2025-08-07 20:52:11.450 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:52:11.450 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 2321.4619ms
+2025-08-07 20:52:12.591 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:52:12.592 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:52:12.592 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:52:14.691 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:52:14.691 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:52:14.691 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 2099.1276ms
+2025-08-07 20:52:14.691 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:52:14.691 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 2099.9557ms
+2025-08-07 20:52:15.871 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:52:15.872 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:52:15.872 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:52:17.468 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:52:17.468 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:52:17.468 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 1595.8217ms
+2025-08-07 20:52:17.468 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:52:17.468 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 1596.8138ms
+2025-08-07 20:52:18.534 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:52:18.534 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:52:18.534 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:52:21.197 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:52:21.197 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:52:21.198 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 2663.466ms
+2025-08-07 20:52:21.198 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:52:21.198 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 2663.971ms
+2025-08-07 20:52:25.490 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:52:25.490 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:52:25.490 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:52:28.107 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:52:28.107 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:52:28.108 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 2617.1201ms
+2025-08-07 20:52:28.108 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:52:28.108 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 2617.6008ms
+2025-08-07 20:52:30.106 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:52:30.106 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:52:30.106 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:52:33.353 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:52:33.354 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:52:33.354 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 3247.8163ms
+2025-08-07 20:52:33.354 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:52:33.354 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 3248.3404ms
+2025-08-07 20:52:34.994 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:52:34.994 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:52:34.994 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:52:36.286 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:52:36.286 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:52:36.286 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 1291.9237ms
+2025-08-07 20:52:36.286 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:52:36.286 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 1292.4941ms
+2025-08-07 20:52:37.381 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:52:37.381 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:52:37.381 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:52:44.107 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:52:44.107 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:52:44.107 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 6726.3112ms
+2025-08-07 20:52:44.108 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:52:44.108 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 6727.0402ms
+2025-08-07 20:52:49.581 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:52:49.581 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:52:49.581 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:52:55.180 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:52:55.180 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:52:55.180 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 5599.2672ms
+2025-08-07 20:52:55.180 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:52:55.180 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 5599.8341ms
+2025-08-07 20:53:02.470 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:53:02.470 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:53:02.470 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:53:13.329 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:53:13.329 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:53:13.329 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 10859.4591ms
+2025-08-07 20:53:13.329 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:53:13.330 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 10860.0178ms
+2025-08-07 20:53:14.935 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:53:14.936 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:53:14.936 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:53:18.128 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:53:18.129 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:53:18.129 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 3193.0361ms
+2025-08-07 20:53:18.129 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:53:18.129 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 3193.4838ms
+2025-08-07 20:53:23.853 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:53:23.853 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:53:23.853 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:53:27.694 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:53:27.695 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:53:27.695 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 3841.2323ms
+2025-08-07 20:53:27.695 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:53:27.695 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 3841.671ms
+2025-08-07 20:53:29.324 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:53:29.325 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:53:29.325 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:53:31.751 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:53:31.752 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:53:31.753 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 2427.7014ms
+2025-08-07 20:53:31.753 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:53:31.753 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 2428.6587ms
+2025-08-07 20:53:34.573 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:53:34.574 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:53:34.574 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:53:37.216 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:53:37.216 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:53:37.217 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 2642.7332ms
+2025-08-07 20:53:37.217 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:53:37.217 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 2643.4207ms
+2025-08-07 20:53:39.835 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:53:39.835 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:53:39.835 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:53:43.628 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:53:43.628 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:53:43.628 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 3792.8188ms
+2025-08-07 20:53:43.628 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:53:43.628 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 3793.4253ms
+2025-08-07 20:53:48.223 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:53:48.223 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:53:48.223 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:53:52.980 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:53:52.980 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:53:52.981 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 4757.0621ms
+2025-08-07 20:53:52.981 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:53:52.981 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 4757.5854ms
+2025-08-07 20:53:59.281 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:53:59.281 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:53:59.281 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:54:02.747 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:54:02.748 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:54:02.748 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 3466.7727ms
+2025-08-07 20:54:02.748 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:54:02.748 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 3467.4743ms
+2025-08-07 20:54:31.461 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:54:31.462 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:54:31.462 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:54:35.759 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:54:35.760 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:54:35.760 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 4297.5904ms
+2025-08-07 20:54:35.760 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:54:35.760 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 4298.7618ms
+2025-08-07 20:54:38.317 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:54:38.317 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:54:38.317 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:54:42.719 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:54:42.720 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:54:42.720 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 4402.8414ms
+2025-08-07 20:54:42.720 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:54:42.720 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 4403.3645ms
+2025-08-07 20:54:51.890 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:54:51.891 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:54:51.891 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:54:55.803 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:54:55.803 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:54:55.803 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 3911.9839ms
+2025-08-07 20:54:55.803 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:54:55.803 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 3913.6076ms
+2025-08-07 20:54:59.257 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 20:54:59.257 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:54:59.257 +03:30 [INF] Route matched with {action = "GetMyTickets", controller = "Tickets"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse]] GetMyTickets() on controller TicketingSystem.API.Controllers.TicketsController (TicketingSystem.API).
+2025-08-07 20:55:03.902 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "t"."Id", "t"."AssignedToUserId", "t"."CreatedAt", "t"."CreatedByUserId", "t"."Description", "t"."Priority", "t"."Status", "t"."Title", "t"."UpdatedAt"
+FROM "Tickets" AS "t"
+WHERE "t"."CreatedByUserId" = @__userId_0
+2025-08-07 20:55:03.902 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TicketingSystem.Application.Tickets.Queries.GetMyTickets.GetMyTicketsQueryResponse, TicketingSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-07 20:55:03.902 +03:30 [INF] Executed action TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API) in 4645.1433ms
+2025-08-07 20:55:03.902 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.TicketsController.GetMyTickets (TicketingSystem.API)'
+2025-08-07 20:55:03.902 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 200 null application/json; charset=utf-8 4645.6622ms
+2025-08-07 21:13:40.964 +03:30 [INF] Starting up  the service  .... 
+2025-08-07 21:13:41.644 +03:30 [INF] User profile is available. Using 'C:\Users\Mostafa\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-08-07 21:13:41.838 +03:30 [INF] Now listening on: https://localhost:7254
+2025-08-07 21:13:41.838 +03:30 [INF] Now listening on: http://localhost:5219
+2025-08-07 21:13:41.840 +03:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-07 21:13:41.841 +03:30 [INF] Hosting environment: Development
+2025-08-07 21:13:41.841 +03:30 [INF] Content root path: E:\Mostafa\Ticket\TicketingSystem.API
+2025-08-07 21:13:42.066 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/ - null null
+2025-08-07 21:13:42.198 +03:30 [INF] Executing endpoint 'HTTP: GET /'
+2025-08-07 21:13:42.199 +03:30 [INF] Executed endpoint 'HTTP: GET /'
+2025-08-07 21:13:42.206 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/ - 302 0 null 142.4467ms
+2025-08-07 21:13:42.318 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - null null
+2025-08-07 21:13:42.472 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 153.5215ms
+2025-08-07 21:14:52.108 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 21:14:52.260 +03:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Employee)
+2025-08-07 21:14:52.263 +03:30 [INF] AuthenticationScheme: Bearer was challenged.
+2025-08-07 21:14:52.264 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 401 0 null 155.8916ms
+2025-08-07 21:15:01.613 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 21:15:01.662 +03:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 5:21:56 PM', Current time (UTC): '8/7/2025 5:45:01 PM'.
+   at Microsoft.IdentityModel.Tokens.ValidatorUtilities.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+2025-08-07 21:15:01.685 +03:30 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 5:21:56 PM', Current time (UTC): '8/7/2025 5:45:01 PM'.
+2025-08-07 21:15:01.691 +03:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Employee)
+2025-08-07 21:15:01.692 +03:30 [INF] AuthenticationScheme: Bearer was challenged.
+2025-08-07 21:15:01.693 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 401 0 null 79.259ms
+2025-08-07 21:15:02.823 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - null null
+2025-08-07 21:15:02.824 +03:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 5:21:56 PM', Current time (UTC): '8/7/2025 5:45:02 PM'.
+   at Microsoft.IdentityModel.Tokens.ValidatorUtilities.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+2025-08-07 21:15:02.832 +03:30 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 5:21:56 PM', Current time (UTC): '8/7/2025 5:45:02 PM'.
+2025-08-07 21:15:02.840 +03:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Employee)
+2025-08-07 21:15:02.840 +03:30 [INF] AuthenticationScheme: Bearer was challenged.
+2025-08-07 21:15:02.840 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tickets/GetMyTickets - 401 0 null 17.3979ms
+2025-08-07 21:15:32.485 +03:30 [INF] Request starting HTTP/2 POST https://localhost:7254/api/Auth/login - application/json 62
+2025-08-07 21:15:32.486 +03:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 5:21:56 PM', Current time (UTC): '8/7/2025 5:45:32 PM'.
+   at Microsoft.IdentityModel.Tokens.ValidatorUtilities.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+2025-08-07 21:15:32.487 +03:30 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '8/7/2025 5:21:56 PM', Current time (UTC): '8/7/2025 5:45:32 PM'.
+2025-08-07 21:15:32.487 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.AuthController.Login (TicketingSystem.API)'
+2025-08-07 21:15:32.508 +03:30 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(TicketingSystem.API.RequestDTOs.AuthDTOs.LoginDto) on controller TicketingSystem.API.Controllers.AuthController (TicketingSystem.API).
+2025-08-07 21:15:32.512 +03:30 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-08-07 21:15:33.033 +03:30 [WRN] The foreign key property 'RefreshToken.UserId1' was created in shadow state because a conflicting property with the simple name 'UserId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2025-08-07 21:15:33.423 +03:30 [INF] Executed DbCommand (11ms) [Parameters=[@__email_0='?' (Size = 15)], CommandType='"Text"', CommandTimeout='30']
+SELECT "u"."Id", "u"."CreatedAt", "u"."Email", "u"."FirstName", "u"."LastName", "u"."PasswordHash", "u"."Role", "u"."UpdatedAt"
+FROM "Users" AS "u"
+WHERE "u"."Email" = @__email_0
+LIMIT 1
+2025-08-07 21:15:34.086 +03:30 [INF] Executing OkObjectResult, writing value of type 'TicketingSystem.Application.UserCommandandQueries.Logins.LoginCommandResponse'.
+2025-08-07 21:15:34.099 +03:30 [INF] Executed action TicketingSystem.API.Controllers.AuthController.Login (TicketingSystem.API) in 1586.7165ms
+2025-08-07 21:15:34.099 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.AuthController.Login (TicketingSystem.API)'
+2025-08-07 21:15:34.103 +03:30 [INF] Request finished HTTP/2 POST https://localhost:7254/api/Auth/login - 200 null application/json; charset=utf-8 1618.2139ms
+2025-08-07 21:15:55.099 +03:30 [INF] Request starting HTTP/2 POST https://localhost:7254/api/Auth/register - application/json 125
+2025-08-07 21:15:55.115 +03:30 [INF] Executing endpoint 'TicketingSystem.API.Controllers.AuthController.Register (TicketingSystem.API)'
+2025-08-07 21:15:55.118 +03:30 [INF] Route matched with {action = "Register", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(TicketingSystem.API.RequestDTOs.AuthDTOs.RegisterDto) on controller TicketingSystem.API.Controllers.AuthController (TicketingSystem.API).
+2025-08-07 21:15:55.181 +03:30 [INF] Executed DbCommand (0ms) [Parameters=[@__email_0='?' (Size = 15)], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM "Users" AS "u"
+    WHERE "u"."Email" = @__email_0)
+2025-08-07 21:16:03.295 +03:30 [INF] Executed action TicketingSystem.API.Controllers.AuthController.Register (TicketingSystem.API) in 8175.7477ms
+2025-08-07 21:16:03.296 +03:30 [INF] Executed endpoint 'TicketingSystem.API.Controllers.AuthController.Register (TicketingSystem.API)'
+2025-08-07 21:16:03.298 +03:30 [ERR] An unhandled exception has occurred while executing the request.
+TicketingSystem.Domain.Exceptions.NotFoundException: کاربری با چنین  شناسه ای در سیستم ثبت شده است 
+   at TicketingSystem.Application.UserCommandandQueries.RegisterCommands.RegisterCommandHandler.Handle(RegisterCommand request, CancellationToken cancellationToken) in E:\Mostafa\Ticket\TicketingSystem.Application\UserCommandandQueries\RegisterCommands\RegisterCommandHandler.cs:line 23
+   at TicketingSystem.Application.Behaviors.ValidationBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken) in E:\Mostafa\Ticket\TicketingSystem.Application\Behaviors\ValidationBehavior.cs:line 42
+   at TicketingSystem.API.Controllers.AuthController.Register(RegisterDto registerDto) in E:\Mostafa\Ticket\TicketingSystem.API\Controllers\AuthController.cs:line 25
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Prometheus.HttpMetrics.HttpRequestDurationMiddleware.Invoke(HttpContext context)
+   at Prometheus.HttpMetrics.HttpRequestCountMiddleware.Invoke(HttpContext context)
+   at Prometheus.HttpMetrics.HttpInProgressMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-08-07 21:16:03.327 +03:30 [INF] Request finished HTTP/2 POST https://localhost:7254/api/Auth/register - 500 null text/plain; charset=utf-8 8228.1134ms

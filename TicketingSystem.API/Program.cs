@@ -13,81 +13,94 @@ using TicketingSystem.Application.Interfaces.Coommon;
 using TicketingSystem.Application.Tickets.Commands.CreateTicket;
 using TicketingSystem.Infrastructure;
 using TicketingSystem.Infrastructure.Security;
+using Serilog;
+using Prometheus;
 
-var builder = WebApplication.CreateBuilder(args);
 
+Log.Logger = new LoggerConfiguration()
+.WriteTo.Console()
+.WriteTo.File("Logs/log-.txt", rollingInterval: RollingInterval.Day)
+.Enrich.FromLogContext()
+.CreateLogger();
 
-builder.Services.AddHttpContextAccessor();
-builder.Services.AddScoped<ICurrentUser, CurrentUser>();
-builder.Services.Configure<JwtSettings>(
-    builder.Configuration.GetSection("JwtSettings"));
-
- 
-
-//   ثبت Authentication JWT
-builder.Services.AddAuthentication(options =>
+try
 {
-    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
-    options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+    Log.Information("Starting up  the service  .... ");
 
-}).AddJwtBearer(options =>
-{
-    var secretKey = builder.Configuration["JwtSettings:Secret"];
-    options.TokenValidationParameters = new TokenValidationParameters
+    var builder = WebApplication.CreateBuilder(args);
+    builder.Host.UseSerilog();
+
+    builder.Services.AddHttpContextAccessor();
+    builder.Services.AddScoped<ICurrentUser, CurrentUser>();
+    builder.Services.Configure<JwtSettings>(
+        builder.Configuration.GetSection("JwtSettings"));
+
+
+
+    //   ثبت Authentication JWT
+    builder.Services.AddAuthentication(options =>
     {
-        ValidateIssuer = false,
-        ValidateAudience = false,
-        ValidateIssuerSigningKey = true,
-        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(secretKey!)),
-        ClockSkew = TimeSpan.Zero
-    };
-});
+        options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+        options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
 
-builder.Services.AddAuthorization(options =>
-{
-    options.AddPolicy("CanViewTicket", policy => policy.Requirements.Add(new CanViewTicketRequirement()));
-
-});
-builder.Services.AddScoped<IAuthorizationHandler, CanViewTicketHandler>();
-
-builder.Services.AddControllers();
-
-
-
-
-
-builder.Services.AddMediatR(cfg =>
-{
-    cfg.RegisterServicesFromAssembly(typeof(CreateTicketCommand).Assembly);
-});
-
-builder.Services
-    .AddFluentValidationAutoValidation()
-    .AddFluentValidationClientsideAdapters()
-    .AddValidatorsFromAssemblyContaining<CreateTicketCommandValidator>();
-
-builder.Services.AddTransient(
-    typeof(IPipelineBehavior<,>),
-    typeof(ValidationBehavior<,>));
-
-builder.Services.AddEndpointsApiExplorer();
-
-builder.Services.AddSwaggerGen(c =>
-{
-    c.SwaggerDoc("v1", new OpenApiInfo { Title = "TicketingSystem API", Version = "v1" });
-
-    c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
+    }).AddJwtBearer(options =>
     {
-        Description =  " Authorization Bearer  ",
-        Name = "Authorization",
-        In = ParameterLocation.Header,
-        Type = SecuritySchemeType.ApiKey,
-        Scheme = "Bearer",
-        BearerFormat = "JWT"
+        var secretKey = builder.Configuration["JwtSettings:Secret"];
+        options.TokenValidationParameters = new TokenValidationParameters
+        {
+            ValidateIssuer = false,
+            ValidateAudience = false,
+            ValidateIssuerSigningKey = true,
+            IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(secretKey!)),
+            ClockSkew = TimeSpan.Zero
+        };
     });
 
-    c.AddSecurityRequirement(new OpenApiSecurityRequirement()
-  {
+    builder.Services.AddAuthorization(options =>
+    {
+        options.AddPolicy("CanViewTicket", policy => policy.Requirements.Add(new CanViewTicketRequirement()));
+
+    });
+    builder.Services.AddScoped<IAuthorizationHandler, CanViewTicketHandler>();
+
+    builder.Services.AddControllers();
+
+
+
+
+
+    builder.Services.AddMediatR(cfg =>
+    {
+        cfg.RegisterServicesFromAssembly(typeof(CreateTicketCommand).Assembly);
+    });
+
+    builder.Services
+        .AddFluentValidationAutoValidation()
+        .AddFluentValidationClientsideAdapters()
+        .AddValidatorsFromAssemblyContaining<CreateTicketCommandValidator>();
+
+    builder.Services.AddTransient(
+        typeof(IPipelineBehavior<,>),
+        typeof(ValidationBehavior<,>));
+
+    builder.Services.AddEndpointsApiExplorer();
+
+    builder.Services.AddSwaggerGen(c =>
+    {
+        c.SwaggerDoc("v1", new OpenApiInfo { Title = "TicketingSystem API", Version = "v1" });
+
+        c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
+        {
+            Description = " Authorization Bearer  ",
+            Name = "Authorization",
+            In = ParameterLocation.Header,
+            Type = SecuritySchemeType.ApiKey,
+            Scheme = "Bearer",
+            BearerFormat = "JWT"
+        });
+
+        c.AddSecurityRequirement(new OpenApiSecurityRequirement()
+      {
         {
             new OpenApiSecurityScheme
             {
@@ -102,13 +115,17 @@ builder.Services.AddSwaggerGen(c =>
             },
             new List<string>()
         }
-  });
-});
+      });
+    });
 
 
-builder.Services.AddInfrastructure(builder.Configuration);
-var app = builder.Build();
+    builder.Services.AddInfrastructure(builder.Configuration);
+    var app = builder.Build();
 
+app.UseRouting();
+app.UseHttpMetrics();
+app.MapControllers();
+app.MapMetrics();
 
 if (app.Environment.IsDevelopment())
 {
@@ -137,3 +154,13 @@ app.MapControllers();
 app.Run();
 
 
+}
+catch (System.Exception ex)
+{
+    Log.Fatal(ex, "Application start-up failed ");
+
+}
+finally
+{
+    Log.CloseAndFlush();
+}
