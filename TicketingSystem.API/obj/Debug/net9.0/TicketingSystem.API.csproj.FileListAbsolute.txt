@@ -32,7 +32,6 @@ E:\Mostafa\Ticket\TicketingSystem.API\obj\Debug\net9.0\staticwebassets\msbuild.b
 E:\Mostafa\Ticket\TicketingSystem.API\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.TicketingSystem.API.props
 E:\Mostafa\Ticket\TicketingSystem.API\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.TicketingSystem.API.props
 E:\Mostafa\Ticket\TicketingSystem.API\obj\Debug\net9.0\staticwebassets.pack.json
-E:\Mostafa\Ticket\TicketingSystem.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 E:\Mostafa\Ticket\TicketingSystem.API\obj\Debug\net9.0\Ticketin.D769AA9C.Up2Date
 E:\Mostafa\Ticket\TicketingSystem.API\obj\Debug\net9.0\TicketingSystem.API.dll
 E:\Mostafa\Ticket\TicketingSystem.API\obj\Debug\net9.0\refint\TicketingSystem.API.dll
@@ -181,3 +180,14 @@ E:\Mostafa\Ticket\TicketingSystem.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAna
 E:\Mostafa\Ticket\TicketingSystem.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 E:\Mostafa\Ticket\TicketingSystem.API\obj\Debug\net9.0\TicketingSystem.API.MvcApplicationPartsAssemblyInfo.cs
 E:\Mostafa\Ticket\TicketingSystem.API\obj\Debug\net9.0\TicketingSystem.API.sourcelink.json
+E:\Mostafa\Ticket\TicketingSystem.API\bin\Debug\net9.0\Serilog.dll
+E:\Mostafa\Ticket\TicketingSystem.API\bin\Debug\net9.0\Serilog.AspNetCore.dll
+E:\Mostafa\Ticket\TicketingSystem.API\bin\Debug\net9.0\Serilog.Extensions.Hosting.dll
+E:\Mostafa\Ticket\TicketingSystem.API\bin\Debug\net9.0\Serilog.Extensions.Logging.dll
+E:\Mostafa\Ticket\TicketingSystem.API\bin\Debug\net9.0\Serilog.Formatting.Compact.dll
+E:\Mostafa\Ticket\TicketingSystem.API\bin\Debug\net9.0\Serilog.Settings.Configuration.dll
+E:\Mostafa\Ticket\TicketingSystem.API\bin\Debug\net9.0\Serilog.Sinks.Console.dll
+E:\Mostafa\Ticket\TicketingSystem.API\bin\Debug\net9.0\Serilog.Sinks.Debug.dll
+E:\Mostafa\Ticket\TicketingSystem.API\bin\Debug\net9.0\Serilog.Sinks.File.dll
+E:\Mostafa\Ticket\TicketingSystem.API\bin\Debug\net9.0\Prometheus.NetStandard.dll
+E:\Mostafa\Ticket\TicketingSystem.API\bin\Debug\net9.0\Prometheus.AspNetCore.dll
