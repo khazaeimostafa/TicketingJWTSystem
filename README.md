@@ -20,6 +20,6 @@ git clone https://github.com/khazaeimostafa/TicketingJWTSystem
  
  نیازی به seed
  کردن  نیست  به   کمک سوگر کاریر را ایجاد کنید و عملیات  را انجام  دهید    
-  برای ایجاد دیتا بیس چنانچه  خطا داشت اجرای دستور dotnet ef database update
+  برای ایجاد دیتا بیس چنانچه  خطا داشت اجرای دستور 
 dotnet ef database update
 در کلاس لایبری infrastructure 

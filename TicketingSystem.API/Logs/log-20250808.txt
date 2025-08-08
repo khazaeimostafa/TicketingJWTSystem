@@ -1,0 +1,13 @@
+2025-08-08 10:24:45.384 +03:30 [INF] Starting up  the service  .... 
+2025-08-08 10:24:47.271 +03:30 [INF] User profile is available. Using 'C:\Users\Mostafa\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-08-08 10:24:47.579 +03:30 [INF] Now listening on: https://localhost:7254
+2025-08-08 10:24:47.580 +03:30 [INF] Now listening on: http://localhost:5219
+2025-08-08 10:24:47.585 +03:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-08 10:24:47.586 +03:30 [INF] Hosting environment: Development
+2025-08-08 10:24:47.586 +03:30 [INF] Content root path: E:\Mostafa\Ticket\TicketingSystem.API
+2025-08-08 10:24:47.887 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/ - null null
+2025-08-08 10:24:49.110 +03:30 [INF] Executing endpoint 'HTTP: GET /'
+2025-08-08 10:24:49.110 +03:30 [INF] Executed endpoint 'HTTP: GET /'
+2025-08-08 10:24:49.118 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/ - 302 0 null 1232.3325ms
+2025-08-08 10:24:49.221 +03:30 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - null null
+2025-08-08 10:24:49.365 +03:30 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 144.1282ms

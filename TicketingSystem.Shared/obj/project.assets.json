@@ -177,11 +177,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Mostafa\\Ticket\\TicketingSystem.Shared\\TicketingSystem.Shared.csproj",
+      "projectUniqueName": "e:\\Mostafa\\Ticket\\TicketingSystem.Shared\\TicketingSystem.Shared.csproj",
       "projectName": "TicketingSystem.Shared",
-      "projectPath": "E:\\Mostafa\\Ticket\\TicketingSystem.Shared\\TicketingSystem.Shared.csproj",
+      "projectPath": "e:\\Mostafa\\Ticket\\TicketingSystem.Shared\\TicketingSystem.Shared.csproj",
       "packagesPath": "C:\\Users\\Mostafa\\.nuget\\packages\\",
-      "outputPath": "E:\\Mostafa\\Ticket\\TicketingSystem.Shared\\obj\\",
+      "outputPath": "e:\\Mostafa\\Ticket\\TicketingSystem.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -248,13 +248,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
-    }
-  ]
+  }
 }

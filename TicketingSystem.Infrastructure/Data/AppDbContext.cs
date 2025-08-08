@@ -10,6 +10,7 @@ public class AppDbContext : DbContext
 
     public DbSet<User> Users => Set<User>();
     public DbSet<Ticket> Tickets => Set<Ticket>();
+    public DbSet<RefreshToken> RefreshTokens => Set<RefreshToken>();
 
 
     public override Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
